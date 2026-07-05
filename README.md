@@ -4,7 +4,8 @@
 
 ---
 
-![Dashboard Preview](Workforce_Intelligence_Dashboard.jpg)
+<img width="2809" height="4865" alt="BR_Workforce_Intelligence_Dashboard" src="https://github.com/user-attachments/assets/c7f80b2c-27a2-43b3-b364-f98403197101" />
+
 
 ---
 
